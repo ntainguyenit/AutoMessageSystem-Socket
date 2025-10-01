@@ -1,0 +1,5 @@
+Ket qua Xo so Kien thiet:
+Giai Dac biet: 123456
+Giai Nhat: 78901
+Giai Nhi: 23456, 34567
+Chuc mung!
